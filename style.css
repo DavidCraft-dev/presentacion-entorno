@@ -19,7 +19,7 @@ h1 {
 
 .imagen img {
     width: 30em;
-    margin-top: 5em;
+    margin-top: 2em;
 }
 
 .logos {
@@ -31,4 +31,19 @@ h1 {
 .logos img {
     width: 5em;
     margin-left: .5em;
+}
+
+marquee{
+    display: flex;
+    margin: auto;
+    width: 18em;
+    font-weight: bold;
+}
+
+#fechaHora{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 1em;
 }
